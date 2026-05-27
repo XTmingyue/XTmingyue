@@ -4,7 +4,7 @@
 
 我正在探索 AI 如何改变个人创造、软件开发和知识生产。
 
-我不把 AI 当成一个工具列表，而是把它看作一种新的工作方式：从想法、原型、代码、内容，到自动化系统，尽量让每一次实验都沉淀成可以复用、可以迭代、可以被他人理解的项目。
+从想法、原型、代码、内容，到自动化系统，尽量让每一次实验都沉淀成可以复用、可以迭代、可以被他人理解的项目。
 
 ---
 
@@ -12,13 +12,13 @@
 
 ### AI Native Workflow
 
-我关注的是：一个人如何借助 AI 完成过去需要一个小团队才能完成的事。
+一个人如何借助 AI 完成过去需要一个小团队才能完成的事。
 
 - AI 编程与产品原型
 - Agent 工作流
 - Prompt / Skill / MCP
 - 自动化知识管理
-- 本地优先的 AI 工具链
+- AI 工具链
 
 ### Building in Public
 
@@ -52,22 +52,6 @@
 
 [![harnessNovel](./assets/harnessNovel-namecard.png)](https://github.com/XTmingyue/harnessNovel)
 
-### hermes-agent
-
-一个围绕 AI Agent、技能系统和自动化工作流的实验项目。
-
-### autonovel
-
-探索 AI 辅助长篇小说创作、拆解和生成流程，把创意写作变成可迭代的工作流。
-
-### weread2notion-pro
-
-把阅读、笔记和知识管理流程自动化，让输入系统更容易沉淀为可检索、可复用的知识资产。
-
-### daily_stock_analysis
-
-面向日常投资观察的数据分析实验，尝试用自动化脚本辅助信息整理和判断。
-
 ---
 
 ## 我相信的几件事
@@ -82,5 +66,8 @@ AI 时代，真正稀缺的不是生成能力，而是判断力。
 
 ## 找到我
 
-- GitHub: [@XTmingyue](https://github.com/XTmingyue)
-- Email: 178276555@qq.com
+**微信公众号** · [飞鸟onTheWay](https://mp.weixin.qq.com/s/_GIBLfxKKc6VyMdx9oWhwA) 
+
+**社交平台** · [小红书 潮声明月](https://www.xiaohongshu.com/user/profile/5668486ae4251d644618986d)· [知乎 飞鸟在路上](https://www.zhihu.com/people/05124ba329947f0f0b705c0fce66b069)
+
+**Email** · xtmingyue@gmail.com
