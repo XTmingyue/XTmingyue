@@ -40,6 +40,18 @@
 
 ## 当前项目
 
+### wenfeng-skill
+
+把一本书的写法，蒸馏成可调用的创作规则。
+
+[![文风 skill](./assets/wenfeng-skill-namecard.png)](https://github.com/XTmingyue/wenfeng-skill)
+
+### harnessNovel
+
+让 AI 先拆书，再写长篇。
+
+[![harnessNovel](./assets/harnessNovel-namecard.png)](https://github.com/XTmingyue/harnessNovel)
+
 ### hermes-agent
 
 一个围绕 AI Agent、技能系统和自动化工作流的实验项目。
@@ -72,4 +84,3 @@ AI 时代，真正稀缺的不是生成能力，而是判断力。
 
 - GitHub: [@XTmingyue](https://github.com/XTmingyue)
 - Email: 178276555@qq.com
-
