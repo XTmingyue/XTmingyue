@@ -69,5 +69,3 @@ AI 时代，真正稀缺的不是生成能力，而是判断力。
 **微信公众号** · [飞鸟onTheWay](https://mp.weixin.qq.com/s/_GIBLfxKKc6VyMdx9oWhwA) 
 
 **社交平台** · [小红书 潮声明月](https://www.xiaohongshu.com/user/profile/5668486ae4251d644618986d)· [知乎 飞鸟在路上](https://www.zhihu.com/people/05124ba329947f0f0b705c0fce66b069)
-
-**Email** · xtmingyue@gmail.com
