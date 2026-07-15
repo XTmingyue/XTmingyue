@@ -40,17 +40,27 @@
 
 ## 当前项目
 
-### wenfeng-skill
+### StoryAgent
 
-把一本书的写法，蒸馏成可调用的创作规则。
+把长篇网文拆成章节节奏、故事片段和 Excel 拆书表。
 
-[![文风 skill](./assets/wenfeng-skill-namecard.png)](https://github.com/XTmingyue/wenfeng-skill)
+[![StoryAgent](./assets/storyagent-namecard.png)](https://github.com/XTmingyue/StoryAgent)
+
+---
 
 ### harnessNovel
 
 让 AI 先拆书，再写长篇。
 
 [![harnessNovel](./assets/harnessNovel-namecard.png)](https://github.com/XTmingyue/harnessNovel)
+
+---
+
+### wenfeng-skill
+
+把一本书的写法，蒸馏成可调用的创作规则。
+
+[![文风 skill](./assets/wenfeng-skill-namecard.png)](https://github.com/XTmingyue/wenfeng-skill)
 
 ---
 
